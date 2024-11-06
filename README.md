@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Oussama Ajala, an aspiring web developer with a strong foundation in HTML, CSS, JavaScript, React, and AWS. Currently pursuing a Bachelor of Science in Information Systems and Technology with a minor in Data Science and Digital Media at Catawba College, I am passionate about creating user-friendly, efficient web applications. My educational journey, along with hands-on experience as a Front-End Developer, has equipped me with skills in digital transformation and sustainability, reducing paper usage and enhancing usability through web form optimization.
+Hello, my name is Oussama Ajala; I am an aspiring Web developer proficient in HTML, CSS, JavaScript, React, and AWS. Currently studying towards a Bachelor of Science in Information Systems and Technology with a minor in Data Science and Digital Media at Catawba College. I proudly say that developing user-friendly and efficient web applications is my area of interest. The education thus attained, combined with hands-on experience as a Front-End Developer, has prepared me to work in areas of digital transformation and sustainability by reducing paper use and enhancing usability through the optimization of web forms.
 
 
 ## 🌐 Socials:
